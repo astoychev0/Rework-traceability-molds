@@ -1,0 +1,8 @@
+# Секретни данни и бази данни
+config.php
+db_connect.php
+.env
+
+# Системни и временни файлове
+.DS_Store
+Thumbs.db
